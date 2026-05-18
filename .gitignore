@@ -1,4 +1,15 @@
-# Dart / Flutter
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.python-version
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Flutter / Dart
 .dart_tool/
 .packages
 .pub-cache/
